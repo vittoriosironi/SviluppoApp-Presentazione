@@ -5,3 +5,5 @@ Ho caricato il progetto di Xcode e anche quello che abbiamo fatto in Swift su [R
 
 https://user-images.githubusercontent.com/98646453/165357997-fa8820e7-fb8a-4c8a-8f09-411f73e945e0.mov
 
+## Cos'è Github e cosa sono le repository?
+Permette l’hosting di progetti software. Gli sviluppatori caricano il codice sorgente di un loro progetto e lo rendono scaricabile dagli utenti. I codici sorgenti fanno parte di una repository, creata dallo sviluppatore stesso, che permette di modificare, scaricare e commentare il codice sorgente. Quindi un codice può essere migliorato e modificato da qualsiasi utente. Github permette anche lo sviluppo coordinato da parte degli sviluppatori sulla stessa base di codice.
